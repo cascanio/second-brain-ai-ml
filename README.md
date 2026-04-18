@@ -39,7 +39,22 @@ As seguintes fontes foram selecionadas e utilizadas no NotebookLM:
    https://arxiv.org/abs/2104.05314
 
 5. Material educativo sobre Análise Preditiva (PDF ou artigo aberto)
-   *(Inserir link utilizado)*
+   [1] Machine Learning Interview Questions and Answers - GeeksforGeeks
+   [2] O que é Inteligência Artificial? Diferença entre IA, Machine Learning, Deep Learning e IA Generativa
+   [3] O que é inteligência artificial (IA)? | IBM
+   [4] Top 35 Machine Learning Interview Questions For 2026 | DataCamp
+   [5] Top Machine Learning Interview Questions & Answers (2025) - InterviewBit
+   [6] Understanding the Hierarchy of Artificial Intelligence (AI) - RPATech
+   [7] What is Machine Learning? | IBM
+   [8] Comprehensive Analysis of Artificial Intelligence Foundations and Machine Learning Paradigms: A Structural Framework for Cognitive Mastery
+   [9] LLM, Machine Learning & Deep Learning: Qual a REAL Diferença?
+   [10] Real-World Examples of Machine Learning (ML) | Tableau
+   [11] Supervised vs Unsupervised Learning - Difference Between ... - AWS
+   [12] https://www.inf.ufpr.br/menotti/ci171-182/slides/ci171-intro.pdf
+   [13] Underfitting vs Overfitting vs Good fit - edSlash
+   [14] AI & Deep Learning Mind Map - 360DigiTMG
+   [15] O que é inteligência artificial (IA)? | Google Cloud
+   [16] Comprehensive Guide to Artificial Intelligence (AI) - MindMap AI
 
 ---
 
