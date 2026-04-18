@@ -1,2 +1,225 @@
-# second-brain-ai-ml
-Projeto de aprendizado estruturado usando IA e NotebookLM para aprender Análise Preditiva, Machine Learning e fundamentos de Inteligência Artificial de forma estruturada e prática.
+# 🧠 Segundo Cérebro em Análise Preditiva com IA
+
+---
+
+## 🎯 Contexto e Objetivos
+
+Este projeto tem como objetivo desenvolver um **Caderno Temático no NotebookLM** para estudar e consolidar conhecimentos fundamentais em:
+
+* Inteligência Artificial (IA)
+* Machine Learning (ML)
+* Análise Preditiva
+
+A proposta é utilizar a IA não apenas como ferramenta de resposta, mas como um **sistema de aprendizado ativo**, organizando informações, conectando conceitos e gerando entendimento prático.
+
+### 🎯 Objetivos de estudo
+
+* Compreender a diferença entre IA, Machine Learning e Deep Learning
+* Entender os principais tipos de aprendizado de máquina
+* Identificar onde a análise preditiva se encaixa no ecossistema de IA
+* Dominar conceitos fundamentais como features, variável alvo, overfitting e pipeline de ML
+* Desenvolver pensamento crítico sobre limitações e riscos
+
+---
+
+## 📚 Curadoria de Fontes
+
+As seguintes fontes foram selecionadas e utilizadas no NotebookLM:
+
+1. IBM – Machine Learning
+   https://www.ibm.com/topics/machine-learning
+
+2. IBM – Types of Machine Learning
+   https://www.ibm.com/think/topics/machine-learning-types
+
+3. Microsoft Learn – Fundamentos de IA
+   https://learn.microsoft.com
+
+4. Artigo introdutório sobre IA e Deep Learning (arXiv)
+   https://arxiv.org/abs/2104.05314
+
+5. Material educativo sobre Análise Preditiva (PDF ou artigo aberto)
+   *(Inserir link utilizado)*
+
+---
+
+## 🧪 Engenharia de Prompts e “Cicatrizes”
+
+Durante o desenvolvimento, foram realizados diversos testes para melhorar a qualidade das respostas da IA.
+
+### 🔹 Caso 1: Prompt genérico vs específico
+
+**Prompt inicial:**
+
+> Explique Inteligência Artificial
+
+**Resultado:**
+Resposta ampla, pouco prática e difícil de aplicar.
+
+**Problema identificado:**
+Falta de contexto e objetivo claro.
+
+---
+
+**Prompt melhorado:**
+
+> Explique a diferença entre IA, Machine Learning e Deep Learning de forma simples, com exemplos e quando usar cada um
+
+**Resultado:**
+
+* Resposta estruturada
+* Melhor compreensão das relações entre conceitos
+* Aplicabilidade prática
+
+**Aprendizado:**
+👉 Quanto mais específico o prompt, maior a qualidade da resposta.
+
+---
+
+### 🔹 Caso 2: Falta de contexto prático
+
+**Prompt inicial:**
+
+> O que é regressão e classificação?
+
+**Resultado:**
+Resposta técnica, mas pouco intuitiva.
+
+---
+
+**Prompt melhorado:**
+
+> Explique regressão e classificação com exemplos simples e diferença clara entre eles
+
+**Resultado:**
+
+* Entendimento mais rápido
+* Facilidade de memorização
+
+**Aprendizado:**
+👉 Pedir exemplos melhora significativamente a clareza.
+
+---
+
+### 🔹 Caso 3: Exploração insuficiente
+
+**Prompt inicial:**
+
+> O que é overfitting?
+
+**Resultado:**
+Definição correta, porém superficial.
+
+---
+
+**Prompt iterado:**
+
+> Explique overfitting de forma simples, com analogia e como evitar
+
+**Resultado:**
+
+* Compreensão mais profunda
+* Visão prática do problema
+
+**Aprendizado:**
+👉 Iterar o prompt aprofunda o conhecimento.
+
+---
+
+### 💡 Principais “Cicatrizes” (aprendizados reais)
+
+* Prompts genéricos geram respostas genéricas
+* A IA precisa de contexto para entregar valor
+* Iteração é parte essencial do processo
+* Pedir exemplos, comparações e aplicações melhora a qualidade
+* Explicar “como usar” é mais útil que apenas definir
+
+---
+
+## 🧾 Miniguia de Estudo
+
+### 📌 1. Inteligência Artificial, Machine Learning e Deep Learning
+
+* **IA:** área ampla que busca criar sistemas inteligentes
+* **Machine Learning:** permite que sistemas aprendam com dados
+* **Deep Learning:** utiliza redes neurais profundas
+
+👉 Relação:
+IA → Machine Learning → Deep Learning
+
+---
+
+### 📌 2. Tipos de Aprendizado
+
+* **Supervisionado:** usa dados rotulados
+* **Não supervisionado:** identifica padrões
+* **Reforço:** aprendizado por tentativa e erro
+
+---
+
+### 📌 3. Análise Preditiva
+
+Utiliza dados históricos e modelos de Machine Learning para prever resultados futuros.
+
+👉 Está inserida dentro do Machine Learning.
+
+---
+
+### 📌 4. Conceitos Fundamentais
+
+* **Feature:** variável de entrada
+* **Variável alvo:** o que se deseja prever
+* **Modelo:** algoritmo treinado
+* **Treinamento:** processo de aprendizado
+
+---
+
+### 📌 5. Pipeline de Machine Learning
+
+1. Coleta de dados
+2. Preparação
+3. Treinamento
+4. Avaliação
+5. Implementação
+
+---
+
+### 📌 6. Overfitting vs Underfitting
+
+* **Overfitting:** modelo aprende demais os dados
+* **Underfitting:** modelo aprende de menos
+
+---
+
+## 📖 Glossário
+
+* **IA:** Inteligência Artificial
+* **ML:** Machine Learning
+* **Deep Learning:** redes neurais profundas
+* **Feature:** dado de entrada
+* **Target:** variável alvo
+* **Modelo:** sistema treinado
+* **Dataset:** conjunto de dados
+
+---
+
+## 🧠 Prompts Reutilizáveis
+
+* Explique [conceito] de forma simples com exemplo
+* Compare [conceito A] vs [conceito B]
+* Onde esse conceito é aplicado na prática?
+* Quais são os riscos e limitações de [conceito]?
+* Explique como se eu fosse iniciante
+
+---
+
+## 🚀 Conclusão
+
+Este projeto demonstra como a Inteligência Artificial pode ser utilizada como ferramenta ativa de aprendizado, indo além da simples consulta, e permitindo:
+
+* Organização do conhecimento
+* Aprendizado estruturado
+* Desenvolvimento de pensamento crítico
+* Aplicação prática dos conceitos
+
+---
