@@ -40,7 +40,7 @@ As seguintes fontes foram selecionadas e utilizadas no NotebookLM:
    [https://www.datacamp.com/blog/top-machine-learning-interview-questions](https://www.datacamp.com/blog/top-machine-learning-interview-questions)
 7. Top Machine Learning Interview Questions & Answers (2025) - InterviewBit
    [https://www.interviewbit.com/machine-learning-interview-questions/](https://www.interviewbit.com/machine-learning-interview-questions/)
-8.Understanding the Hierarchy of Artificial Intelligence (AI) - RPATech
+8. Understanding the Hierarchy of Artificial Intelligence (AI) - RPATech
    [https://www.rpatech.ai/blogs/hierarchy-of-ai/](https://www.rpatech.ai/blogs/hierarchy-of-ai/)
 9. What is Machine Learning? | IBM
    [https://www.ibm.com/think/topics/machine-learning](https://www.ibm.com/think/topics/machine-learning)
