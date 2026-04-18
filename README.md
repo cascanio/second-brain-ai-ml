@@ -154,20 +154,36 @@ Definição correta, porém superficial.
 ## 🧾 Acesse os conteúdos
 
 ---
-🎧 Resumo em Áudio 
+🎧 **Resumo em Áudio**
+
 [Desvendando IA, ML e DL ↗](/Documentacao/ResumoVideo_Desvendando_IA_ML_e_DL.mp4)
 
 ---
-✍️ Resumos estruturados
+✍️ **Resumos estruturados**
+
 [A Arquitectura do Aprendizado↗](/Documentacao/Apresentacao_Blueprint_Intelligence.pdf)
 
 [Fundamentos e Aplicações de Aprendizado de Máquina e Técnicas de Retenção de Conhecimento↗](/Documentacao/Briefing_Fundamentos_Aplicacoes_Aprendizado_Maquina_Tecnicas_Retenção_Conhecimento.pdf)
 
 [Fundamentos e Paradigmas de Machine Learning:↗](/Documentacao/BBriefing_Fundamentos_e_Paradigmas_de_Machine_Learning_Um_Briefing_Abrangente.pdf)
 
+---
+✍️ **Guías de Estudo**
 
+[Fundamentos de Aprendizado de Máquina e Técnicas de Estudo Ativo ↗](Documentacao/Guia de Estudo_ Fundamentos de Aprendizado de Máquina e Técnicas de Estudo Ativo.pdf)
 
+[Fundamentos de Aprendizado de Machine Learning e Técnicas de Estudo Ativo ↗](Documentacao/Guia de Estudo_ Fundamentos de Machine Learning e Técnicas de Estudo Ativo.pdf)
 
+---
+✍️ **Infográfico**  
+[Guía de Funcionamento do Mchine Learning↗](/Documentacao/Infografico-Guia-de-Funcionamento-do-Machine-Learning.png)
+
+---
+
+📄 **Glossário**  
+[Acessar Glossário ↗](/Documentacao/Glossario.pdf)
+
+---
 
 ## 🧠 Prompts Reutilizáveis
 
