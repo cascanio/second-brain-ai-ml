@@ -165,14 +165,14 @@ Definição correta, porém superficial.
 
 [Fundamentos e Aplicações de Aprendizado de Máquina e Técnicas de Retenção de Conhecimento↗](/Documentacao/Briefing_Fundamentos_Aplicacoes_Aprendizado_Maquina_Tecnicas_Retenção_Conhecimento.pdf)
 
-[Fundamentos e Paradigmas de Machine Learning:↗](/Documentacao/BBriefing_Fundamentos_e_Paradigmas_de_Machine_Learning_Um_Briefing_Abrangente.pdf)
+[Fundamentos e Paradigmas de Machine Learning ↗](/Documentacao/Briefing_Fundamentos_e_Paradigmas_de_Machine_Learning_Um_Briefing_Abrangente.pdf)
 
 ---
 ✍️ **Guías de Estudo**
 
-[Fundamentos de Aprendizado de Máquina e Técnicas de Estudo Ativo ↗](Documentacao/Guia de Estudo_ Fundamentos de Aprendizado de Máquina e Técnicas de Estudo Ativo.pdf)
+[Fundamentos de Aprendizado de Máquina e Técnicas de Estudo Ativo ↗](/Documentacao/Guia de Estudo_ Fundamentos de Aprendizado de Máquina e Técnicas de Estudo Ativo.pdf)
 
-[Fundamentos de Aprendizado de Machine Learning e Técnicas de Estudo Ativo ↗](Documentacao/Guia de Estudo_ Fundamentos de Machine Learning e Técnicas de Estudo Ativo.pdf)
+[Fundamentos de Aprendizado de Machine Learning e Técnicas de Estudo Ativo ↗](/Documentacao/Guia de Estudo_ Fundamentos de Machine Learning e Técnicas de Estudo Ativo.pdf)
 
 ---
 ✍️ **Infográfico**  
