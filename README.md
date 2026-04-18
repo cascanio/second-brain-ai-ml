@@ -170,13 +170,13 @@ Definição correta, porém superficial.
 ---
 ✍️ **Guías de Estudo**
 
-[Fundamentos de Aprendizado de Máquina e Técnicas de Estudo Ativo ↗](/Documentacao/Guia de Estudo_ Fundamentos de Aprendizado de Máquina e Técnicas de Estudo Ativo.pdf)
+[Fundamentos de Aprendizado de Máquina e Técnicas de Estudo Ativo↗](/Documentacao/Guia_Estudo_Fundamentos_Aprendizado_Maquina_Tecnicas_de_Estudo_Ativo.pdf)
 
-[Fundamentos de Aprendizado de Machine Learning e Técnicas de Estudo Ativo ↗](/Documentacao/Guia de Estudo_ Fundamentos de Machine Learning e Técnicas de Estudo Ativo.pdf)
+[Fundamentos e Aplicações de Aprendizado de Máquina e Técnicas de Retenção de Conhecimento↗](/Documentacao/Guia_Estudo_Fundamentos_MachineLearning_Tecnicas_de_Estudo_Ativo.pdf)
 
 ---
 ✍️ **Infográfico**  
-[Guía de Funcionamento do Mchine Learning↗](/Documentacao/Infografico-Guia-de-Funcionamento-do-Machine-Learning.png)
+[Guía de Funcionamento do Machine Learning↗](/Documentacao/Infografico-Guia-de-Funcionamento-do-Machine-Learning.png)
 
 ---
 
