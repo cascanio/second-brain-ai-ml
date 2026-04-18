@@ -26,38 +26,37 @@ A proposta é utilizar a IA não apenas como ferramenta de resposta, mas como um
 
 As seguintes fontes foram selecionadas e utilizadas no NotebookLM:
 
-1. IBM – Machine Learning
+1. IBM – Machine Learning - 
    [https://www.ibm.com/topics/machine-learning](https://www.ibm.com/topics/machine-learning)
-2. IBM – Types of Machine Learning
+2. IBM – Types of Machine Learning - 
    [https://www.ibm.com/think/topics/machine-learning-types](https://www.ibm.com/think/topics/machine-learning-types)
-3. Microsoft Learn – Fundamentos de IA
+3. Microsoft Learn – Fundamentos de IA - 
    [https://learn.microsoft.com](https://learn.microsoft.com)
-4. Artigo introdutório sobre IA e Deep Learning (arXiv)
+4. Artigo introdutório sobre IA e Deep Learning - 
    [https://arxiv.org/abs/2104.05314](https://arxiv.org/abs/2104.05314)
-5. Machine Learning Interview Questions and Answers - GeeksforGeeks
+5. Machine Learning Interview Questions and Answers - GeeksforGeeks - 
    [https://www.geeksforgeeks.org/machine-learning/machine-learning-interview-questions/](https://www.geeksforgeeks.org/machine-learning/machine-learning-interview-questions/)
-6. Top 35 Machine Learning Interview Questions For 2026 | DataCamp
+6. Top 35 Machine Learning Interview Questions For 2026 | DataCamp - 
    [https://www.datacamp.com/blog/top-machine-learning-interview-questions](https://www.datacamp.com/blog/top-machine-learning-interview-questions)
-7. Top Machine Learning Interview Questions & Answers (2025) - InterviewBit
+7. Top Machine Learning Interview Questions & Answers (2025) - InterviewBit - 
    [https://www.interviewbit.com/machine-learning-interview-questions/](https://www.interviewbit.com/machine-learning-interview-questions/)
-8. Understanding the Hierarchy of Artificial Intelligence (AI) - RPATech
+8. Understanding the Hierarchy of Artificial Intelligence (AI) - RPATech - 
    [https://www.rpatech.ai/blogs/hierarchy-of-ai/](https://www.rpatech.ai/blogs/hierarchy-of-ai/)
-9. What is Machine Learning? | IBM
+9. What is Machine Learning? | IBM - 
    [https://www.ibm.com/think/topics/machine-learning](https://www.ibm.com/think/topics/machine-learning)
-10. Real-World Examples of Machine Learning (ML) | Tableau
+10. Real-World Examples of Machine Learning (ML) | Tableau - 
    [https://www.tableau.com/learn/articles/machine-learning-examples](https://www.tableau.com/learn/articles/machine-learning-examples)
 11. Supervised vs Unsupervised Learning - Difference Between ... - AWS
    [https://aws.amazon.com/compare/the-difference-between-machine-learning-supervised-and-unsupervised/](
    https://aws.amazon.com/compare/the-difference-between-machine-learning-supervised-and-   unsupervised/)
-12. Introdução à Machine Learning (UFPR - David Menotti)
+12. Introdução à Machine Learning - UFPR - David Menotti - 
    [https://www.inf.ufpr.br/menotti/ci171-182/slides/ci171-intro.pdf](https://www.inf.ufpr.br/menotti/ci171-182/slides/ci171-intro.pdf)
-13. Underfitting vs Overfitting vs Good fit - edSlash
+13. Underfitting vs Overfitting vs Good fit - edSlash - 
    [https://edslash.com/underfitting-vs-overfitting-vs-good-fit/](https://edslash.com/underfitting-vs-overfitting-vs-good-fit/)
-14. AI & Deep Learning Mind Map - 360DigiTMG
+14. AI & Deep Learning Mind Map - 360DigiTMG - 
    [https://360digitmg.com/mindmap/ai-and-dl](https://360digitmg.com/mindmap/ai-and-dl)
-15. Comprehensive Guide to Artificial Intelligence (AI) - MindMap AI
-   [https://mindmapai.app/mind-mapping/artificial-intelligence-ai-1]
-   (https://mindmapai.app/mind-mapping/artificial-intelligence-ai-1)
+15. Comprehensive Guide to Artificial Intelligence (AI) - MindMap AI - 
+   [https://mindmapai.app/mind-mapping/artificial-intelligence-ai-1](https://mindmapai.app/mind-mapping/artificial-intelligence-ai-1)
 
 ---
 
