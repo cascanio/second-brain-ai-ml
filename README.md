@@ -160,7 +160,7 @@ Definição correta, porém superficial.
 
 [Desvendando IA, ML e DL ↗](/Documentacao/ResumoVideo_Desvendando_IA_ML_e_DL.mp4)
 
----
+
 ✍️ **Resumos estruturados**
 
 [A Arquitectura do Aprendizado↗](/Documentacao/Apresentacao_Blueprint_Intelligence.pdf)
@@ -169,18 +169,17 @@ Definição correta, porém superficial.
 
 [Fundamentos e Paradigmas de Machine Learning ↗](/Documentacao/Briefing_Fundamentos_e_Paradigmas_de_Machine_Learning_Um_Briefing_Abrangente.pdf)
 
----
+
 ✍️ **Guías de Estudo**
 
 [Fundamentos de Aprendizado de Máquina e Técnicas de Estudo Ativo↗](Documentacao/Guia_Estudo_Fundamentos_Aprendizado_Maquina_Tecnicas_de_Estudo_Ativo.pdf)
 
 [Fundamentos de Machine Learning e Técnicas Estudo Activo↗](Documentacao/Guia_Estudo_Fundamentos_MachineLearning_Tecnicas_de_Estudo_Ativo.pdf)
 
----
+
 ✍️ **Infográfico**  
 [Guía de Funcionamento do Machine Learning↗](/Documentacao/Infografico-Guia-de-Funcionamento-do-Machine-Learning.png)
 
----
 
 📄 **Glossário**  
 [Acessar Glossário ↗](/Documentacao/Glossario.pdf)
