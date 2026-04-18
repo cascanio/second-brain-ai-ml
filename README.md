@@ -151,72 +151,23 @@ Definição correta, porém superficial.
 
 ---
 
-## 🧾 Miniguia de Estudo
-
-### 📌 1. Inteligência Artificial, Machine Learning e Deep Learning
-
-* **IA:** área ampla que busca criar sistemas inteligentes
-* **Machine Learning:** permite que sistemas aprendam com dados
-* **Deep Learning:** utiliza redes neurais profundas
-
-👉 Relação:
-IA → Machine Learning → Deep Learning
+## 🧾 Acesse os conteúdos
 
 ---
-
-### 📌 2. Tipos de Aprendizado
-
-* **Supervisionado:** usa dados rotulados
-* **Não supervisionado:** identifica padrões
-* **Reforço:** aprendizado por tentativa e erro
+🎧 Resumo em Áudio 
+[Desvendando IA, ML e DL ↗](/Documentacao/ResumoVideo_Desvendando_IA_ML_e_DL.mp4)
 
 ---
+✍️ Resumos estruturados
+[A Arquitectura do Aprendizado↗](/Documentacao/Apresentacao_Blueprint_Intelligence.pdf)
 
-### 📌 3. Análise Preditiva
+[Fundamentos e Aplicações de Aprendizado de Máquina e Técnicas de Retenção de Conhecimento↗](/Documentacao/Briefing_Fundamentos_Aplicacoes_Aprendizado_Maquina_Tecnicas_Retenção_Conhecimento.pdf)
 
-Utiliza dados históricos e modelos de Machine Learning para prever resultados futuros.
+[Fundamentos e Paradigmas de Machine Learning:↗](/Documentacao/BBriefing_Fundamentos_e_Paradigmas_de_Machine_Learning_Um_Briefing_Abrangente.pdf)
 
-👉 Está inserida dentro do Machine Learning.
 
----
 
-### 📌 4. Conceitos Fundamentais
 
-* **Feature:** variável de entrada
-* **Variável alvo:** o que se deseja prever
-* **Modelo:** algoritmo treinado
-* **Treinamento:** processo de aprendizado
-
----
-
-### 📌 5. Pipeline de Machine Learning
-
-1. Coleta de dados
-2. Preparação
-3. Treinamento
-4. Avaliação
-5. Implementação
-
----
-
-### 📌 6. Overfitting vs Underfitting
-
-* **Overfitting:** modelo aprende demais os dados
-* **Underfitting:** modelo aprende de menos
-
----
-
-## 📖 Glossário
-
-* **IA:** Inteligência Artificial
-* **ML:** Machine Learning
-* **Deep Learning:** redes neurais profundas
-* **Feature:** dado de entrada
-* **Target:** variável alvo
-* **Modelo:** sistema treinado
-* **Dataset:** conjunto de dados
-
----
 
 ## 🧠 Prompts Reutilizáveis
 
